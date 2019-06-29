@@ -1,0 +1,30 @@
+v 0.1
+20161021
+-> tampilan game menu
+-> membaca wordlist
+-> mencari word dalam wordlist pada area
+-> masih nembus ke seberang 0,0 -> 0,4
+
+v 0.2
+20161022
+-> selection berhasil
+-> masih terlalu luas window selectionnya, gak bisa nyerong
+
+v 0.3
+20161022
+-> sudah bisa milih nyerong
+-> randomisasi sudah sesuai persentase kemunculan angka
+-> tapi jadinya kebanyakan kata yang muncul di katavalid (ideal ~20)
+-> penyesuaian bisa, tapi percobaannya terlalu banyak
+-> tinggal dikasih update kalo milih kata yang benar diapain
+-> lompat masih bisa, dikasih pembatas, done
+
+v 0.4
+masukan pak indra :
+pake level dan setiap level ada tingkat kecerdasan yang dinaikkan
+
+plan implementasi :
+-> score
+-> rules
+-> time attack
+
